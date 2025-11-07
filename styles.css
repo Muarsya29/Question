@@ -23,7 +23,7 @@
     display: flex;
     align-items: center;
     gap: 0px;      /* Jarak antara logo dan teks */
-    font-size: 40px;
+    font-size: 20px;
 }
 
   .logo-icon {
@@ -50,7 +50,7 @@
       position: fixed;
       top: 16px;
       left: 16px;
-      font-size: 40px;
+      font-size: 20px;
       color: var(--muted);
       font-weight: 500;
       z-index: 700;
@@ -195,4 +195,5 @@
       .line{font-size:16px}
 
     }
+
 
